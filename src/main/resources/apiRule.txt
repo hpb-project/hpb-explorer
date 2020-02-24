@@ -1,0 +1,12 @@
+module=account&action=balance&address=#######&tag=latest&apikey=#######
+module=account&action=balancemulti&address=#######*$#######&tag=latest&apikey=#######
+module=account&action=txlist&address=#######&startblock=#######&endblock=#######&sort=asc&apikey=#######
+module=account&action=txlist&address=#######&startblock=#######&endblock=#######&page=#######&offset=#######&sort=asc&apikey=#######
+module=account&action=txlistinternal&address=#######&startblock=#######&endblock=#######&sort=asc&apikey=#######
+module=account&action=txlistinternal&address=#######&startblock=#######&endblock=#######&page=#######&offset=#######&sort=asc&apikey=#######
+module=account&action=txlistinternal&txhash=#######&apikey=#######
+module=account&action=tokentx&address=#######&startblock=#######&endblock=#######&sort=asc&apikey=#######
+module=account&action=tokentx&contractaddress=#######&page=#######&offset=#######&sort=asc&apikey=#######
+module=account&action=getminedblocks&address=#######&blocktype=blocks&apikey=#######
+module=account&action=getminedblocks&address=#######&blocktype=blocks&page=#######&offset=#######&apikey=#######
+module=stats&action=hpbprice&apikey=#######
