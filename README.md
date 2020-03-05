@@ -1,4 +1,4 @@
-# hpb_explorer
+# hpb-explorer
 HPB blockchain browser open source code。
 
 Interface file link address: https://github.com/hpb-project/wiki/
